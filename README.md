@@ -18,3 +18,8 @@ Build entirely on the MERN stack, a full Netflix Clone. Firebase for storing all
 - Delete existing content and users
 - Same functions with lists
 - Graphs and other data
+
+## Installation
+
+### Dependencies
+Install from the list inside `package.json` for both client and server sides
