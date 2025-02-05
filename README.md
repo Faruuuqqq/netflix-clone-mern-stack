@@ -27,3 +27,10 @@ Install from the list inside `package.json` for both client and server sides
 ## Preview
 
 https://user-images.githubusercontent.com/50140643/137589982-7fef74c2-5b4f-48f7-833e-8193f584f5da.mp4
+
+### In `.env` file inside server, put
+
+```
+MONGO_URL = YourDatabaseConnectionUrl
+SECRET_KEY = YourSecretKey for CryptoJS
+``` 
